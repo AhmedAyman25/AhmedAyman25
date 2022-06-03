@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ayman</h1>
-<h3 align="center">Computer Science student at Benha University & Web Developer</h3>
+<h3 align="center">Computer Science student @BFCAI & Web Developer</h3>
 
 - 🔭 I’m currently study at **Faculty of Computers & AI**
 
