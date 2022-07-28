@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently study at **Faculty of Computers & AI**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development & Software Testing**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for **Intership or Job opportunity**
 
-- 💬 Ask me about **C++ , OOP, Data Structure ,HTML , CSS**
+- 💬 Ask me about **C++ , Java , OOP, Data Structure ,HTML , CSS**
 
 - 📫 How to reach me **ahmed.ayman2516@gmail.com**
 
-- 📄 Know about my experiences [http://tinylink.in/myResume](http://tinylink.in/myResume)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1iqDnhPpOR3FBmrfIINy1jOis6fDVeIF5/edit?usp=sharing&ouid=100887936440372959747&rtpof=true&sd=true))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
