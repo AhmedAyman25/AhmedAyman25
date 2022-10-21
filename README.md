@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently study at **Faculty of Computers & AI**
 
-- 🌱 I’m currently learning **Web Development & Software Testing**
+- 🌱 I’m currently learning **Web Development **
 
 - 👯 I’m looking to collaborate on **open source projects**
 
