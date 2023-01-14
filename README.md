@@ -52,8 +52,6 @@ I am a Back-End Software Engineer and Computer Science student at BFCAI .
 
 - 🤝 I’m looking for **internship or job opportunity**.
 
-- 💬 Ask me about **C++ Java PHP **
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmedAyman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed16ayman)
 
 
