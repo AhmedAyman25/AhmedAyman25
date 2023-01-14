@@ -19,10 +19,6 @@
   <a href="https://instagram.com/ahmed._ayman25">
     <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
- 
-   <a href="https://kaggle.com/ahmedayman25">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
    <a href="https://codeforces.com/profile/ahmed_ayman25">
     <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
@@ -82,8 +78,7 @@ I am a Back-End Software Engineer and Computer Science student at BFCAI .
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedayman25" alt="ahmedayman25" /></a> </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedAyman25&theme=java-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedAyman25&theme=cobalt)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedayman25&show_icons=true&locale=en" alt="ahmedayman25" /></p>
 
 <p><img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedayman25&show_icons=true&locale=en&layout=compact" alt="ahmedayman25" /></p>
