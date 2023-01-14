@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/ahmed16ayman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://fb.com/aymanovic2510">
+   <a href="https://fb.com/AhmedAyman2510">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://twitter.com/AhmedAyman250">
