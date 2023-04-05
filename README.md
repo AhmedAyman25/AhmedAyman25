@@ -45,7 +45,7 @@
 
 ### :woman_technologist: About Me :
 I am a Back-End Software Engineer and Computer Science student at BFCAI .
-- :telescope: I’m working as a **Software Engineer intern at ALX Africa**.
+- :telescope: I’m working as a **Laravel Developer**.
 - 🌱 I’m currently learning **PHP and Laravel Framework**.
 
 - 👯 I’m looking to collaborate on **Open Source Projects**.
