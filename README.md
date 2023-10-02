@@ -4,7 +4,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" />
 </div>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA203E&width=435&lines=Always+learning+new+things" alt="Typing SVG" /></a>
+</p> 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ahmed16ayman">
