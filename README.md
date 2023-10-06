@@ -4,9 +4,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" />
 </div>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA203E&width=435&lines=Always+learning+new+things" alt="Typing SVG" /></a>
-</p> 
+<div align='center'> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000000&background=06060600&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Ayman;A+Software+Engineer+" alt="Typing SVG" /></a> 
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ahmed16ayman">
@@ -35,9 +35,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedayman25&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedayman25" /> </p>
 
 
-<h1 align="center">
-  Hi 👋, I'm Ahmed Ayman
-</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
