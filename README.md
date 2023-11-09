@@ -1,9 +1,10 @@
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" />
-</div>
+<img align="left" 
+     height="300"
+     src="https://github.com/AhmedAyman25/AhmedAyman25/assets/104265326/0b78e449-0695-48f5-92a5-7180483df905"
+     alt="Ahmed Ayman image "/>
 <div align='center'> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=000000&background=06060600&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Ayman;A+Software+Engineer+" alt="Typing SVG" /></a> 
 </div>
