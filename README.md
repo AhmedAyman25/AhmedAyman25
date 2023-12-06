@@ -45,7 +45,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Back-End Software Engineer and Computer Science student at BFCAI .
+I am a Back-End Software Engineer and  Computer Science fresh graduate .
 - :telescope: I’m working as a **Odoo Developer Intern at EJadTech**.
 - 🌱 I’m currently learning **Odoo, PHP and Laravel Framework**.
 
