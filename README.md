@@ -46,12 +46,8 @@
 
 ### :woman_technologist: About Me :
 I am Ahmed Ayman a Computer Science fresh graduate and currently an RPA developer at First Gulf Solutions.
-- :telescope: I’m working as a **Odoo Developer Intern at EJadTech**.
-- 🌱 I’m currently learning **Odoo, PHP and Laravel Framework**.
-
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-
-- 🤝 I’m looking for **internship or job opportunity**.
+- :telescope: I’m working as a **RPA developer at First Gulf Solutions**.
+- 🌱 I’m currently learning **RPA, Odoo, PHP and Laravel Framework**.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmedAyman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed16ayman)
 
