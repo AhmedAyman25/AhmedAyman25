@@ -45,7 +45,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Back-End Software Engineer and  Computer Science fresh graduate .
+I am Ahmed Ayman a Computer Science fresh graduate and currently an RPA developer at First Gulf Solutions.
 - :telescope: I’m working as a **Odoo Developer Intern at EJadTech**.
 - 🌱 I’m currently learning **Odoo, PHP and Laravel Framework**.
 
@@ -57,7 +57,10 @@ I am a Back-End Software Engineer and  Computer Science fresh graduate .
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,html,css,bootstrap,php,laravel,mysql,postgres,git,github,postman,linux,visualstudio,vscode,idea,matlab"/>
+  </a>
+<!--<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -73,7 +76,7 @@ I am a Back-End Software Engineer and  Computer Science fresh graduate .
   <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'  title="visualstudioCode" **alt="VSCode" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab " width="40" height="40"/>&nbsp;
 
-</div>
+</div>-->
 
 
 
