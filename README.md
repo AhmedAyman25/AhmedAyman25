@@ -41,40 +41,24 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: ~$Whoami :
 I am Ahmed Ayman a Computer Science fresh graduate and currently an RPA developer at First Gulf Solutions.
 -  I’m working as a **RPA developer at First Gulf Solutions**.
--  I’m currently learning **RPA, Odoo, PHP, and Laravel Framework**.
+-  I’m currently learning **RPA, Odoo**.
 
-- How to reach me:  <a href="https://www.linkedin.com/in/ahmed16ayman/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+- <b >How to reach me:</b> <a href="https://www.linkedin.com/in/ahmed16ayman/" >
+    <img src="https://skillicons.dev/icons?i=linkedin" width=40px height=25px>
   </a>
+  
 
 
 ### :hammer_and_wrench: Languages and Tools :
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,java,html,css,bootstrap,php,laravel,mysql,postgres,git,github,postman,linux,visualstudio,vscode,idea,matlab"/>
   </a>
-<!--<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain-wordmark.svg' title="PHP Storm" **alt="PHP Storm" width="40" height="40">&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg'  title="visualstudio" **alt="visualstudio" width="40" height="40">&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'  title="visualstudioCode" **alt="VSCode" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab " width="40" height="40"/>&nbsp;
 
-</div>-->
 
 
 
