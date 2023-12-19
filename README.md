@@ -49,7 +49,7 @@ I am Ahmed Ayman a Computer Science fresh graduate and currently an RPA develope
 -  I’m currently learning **RPA, Odoo**.
 
 - <b >How to reach me:</b> <a href="https://www.linkedin.com/in/ahmed16ayman/" >
-    <img src="https://skillicons.dev/icons?i=linkedin" width=40px height=25px>
+    <img src="https://skillicons.dev/icons?i=linkedin" width=25px height=25px>
   </a>
   
 
