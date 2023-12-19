@@ -46,10 +46,12 @@
 
 ### :woman_technologist: About Me :
 I am Ahmed Ayman a Computer Science fresh graduate and currently an RPA developer at First Gulf Solutions.
-- :telescope: I’m working as a **RPA developer at First Gulf Solutions**.
-- 🌱 I’m currently learning **RPA, Odoo, PHP and Laravel Framework**.
+-  I’m working as a **RPA developer at First Gulf Solutions**.
+-  I’m currently learning **RPA, Odoo, PHP, and Laravel Framework**.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AhmedAyman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed16ayman)
+- How to reach me:  <a href="https://www.linkedin.com/in/ahmed16ayman/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
