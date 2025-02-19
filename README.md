@@ -44,8 +44,8 @@ I am Ahmed Ayman a Computer Science fresh graduate and currently an RPA develope
 -  I’m an **RPA developer at First Gulf Solutions**.
 -  I’m currently learning **Python and Odoo Development**.
 
-- <b >How to reach me:</b> <a href="https://www.linkedin.com/in/ahmed16ayman/" >
-    <img src="https://skillicons.dev/icons?i=linkedin" width=25px height=25px>
+- <b >How to reach me:</b> <a href="mailto:ahmed.ayman2516@gmail.com" >ahmed.ayman2516@gmail.com
+    
   </a>
   
 
