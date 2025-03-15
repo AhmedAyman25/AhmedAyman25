@@ -40,7 +40,7 @@
 ---
 
 ### :woman_technologist: ~$Whoami :
-I am Ahmed Ayman a Computer Science fresh graduate and currently an RPA developer at First Gulf Solutions.
+I am Ahmed Ayman, a fresh computer science graduate and an RPA developer at First Gulf Solutions.
 -  I’m an **RPA developer at First Gulf Solutions**.
 -  I’m currently learning **Python and Odoo Development**.
 
